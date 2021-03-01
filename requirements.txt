@@ -1,0 +1,17 @@
+Webpack (imp/exp)
+    Babel
+    SASS
+    ESLint
+    2 modes
+        -Dev
+            devServer,
+            sourceMaps,
+            ESLint,
+            Not Minified JS & CSS
+        -Prod
+            Minified code
+GIT
+    Prod
+        1.0.0
+    Dev
+        1.2.3
